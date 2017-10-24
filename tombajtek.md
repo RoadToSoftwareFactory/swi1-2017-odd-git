@@ -1,14 +1,13 @@
 Please DO NOT delete me (this line).
 
-Please change me somehow.
+Změna řádku
 
 
+Your favorite fruit: jablko
 
-Your favorite fruit: ...
+Your favorite city: Helsinky
 
-Your favorite city: ...
-
-Your favorite vegetable: ...
+Your favorite vegetable: rajče
 
 Your favorite color: ...
 
