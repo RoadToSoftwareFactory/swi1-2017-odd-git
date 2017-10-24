@@ -13,7 +13,7 @@ Your favorite color: ...
 
 Your favorite icecream: smurf
 
-Your favorite season: ...
+Your favorite season: summer
 
 
 (after this, please follow the instructions in README.md)
