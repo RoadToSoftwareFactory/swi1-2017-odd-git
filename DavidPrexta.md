@@ -5,7 +5,7 @@ Please change me somehow.
 
 Your favorite fruit: banana
 
-Your favorite city: ...
+Your favorite city: HELSINKY
 
 Your favorite vegetable: potato
 
