@@ -16,7 +16,7 @@ Your favorite color: ...
 
 Your favorite icecream: no one (zadna nemam rad zmrzlinu, lepsi je si koupit tvaroch a dat si do toho ovoce...)
 
-Your favorite season: ...
+Your favorite season: Autumn (podzim)
 
 
 (after this, please follow the instructions in README.md)
