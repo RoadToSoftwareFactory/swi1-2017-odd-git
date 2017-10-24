@@ -1,8 +1,6 @@
 Please DO NOT delete me (this line).
 
 
-Please change me somehow.
-=======
 
 			File was changed.
 
