@@ -1,6 +1,6 @@
 Please DO NOT delete me (this line).
 
-Please change me somehow.
+Zmenil jsem
 
 
 Your favorite fruit: ...
