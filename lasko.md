@@ -9,7 +9,7 @@ Your favorite city: Helsinki
 
 Your favorite vegetable: carrot
 
-Your favorite color: ...
+Your favorite color: black
 
 Your favorite icecream: vanilla
 
