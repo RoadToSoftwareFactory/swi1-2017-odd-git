@@ -5,7 +5,11 @@ Změna řádku
 
 Your favorite fruit: jablko
 
+<<<<<<< HEAD
 Your favorite city: Helsinky
+=======
+Your favorite city: Brno
+>>>>>>> 2c9d9ad... changed fruit.
 
 Your favorite vegetable: rajče
 
