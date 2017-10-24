@@ -12,7 +12,7 @@ Your favorite color: ...
 
 Your favorite icecream: All sweet and sour
 
-Your favorite season: ...
+Your favorite season: Mentalist
 
 
 (after this, please follow the instructions in README.md)
