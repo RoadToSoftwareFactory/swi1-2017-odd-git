@@ -17,7 +17,7 @@ Your favorite color: ...
 
 Your favorite icecream: Smurfs-icecream
 
-Your favorite season: ...
+Your favorite season: Summer
 
 
 (after this, please follow the instructions in README.md)
