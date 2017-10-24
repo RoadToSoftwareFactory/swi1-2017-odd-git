@@ -4,7 +4,7 @@ Changed.
 
 Your favorite fruit: Meat
 
-Your favorite city: ...
+Your favorite city: Helsinki
 
 Your favorite vegetable: French Fries
 
