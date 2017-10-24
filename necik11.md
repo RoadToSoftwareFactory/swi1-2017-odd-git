@@ -9,7 +9,7 @@ Please change me somehow.
 
 Your favorite fruit: Smažák
 
-Your favorite city: ...
+Your favorite city: Helsinki
 
 Your favorite vegetable: Cherry
 
