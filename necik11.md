@@ -4,7 +4,7 @@ Please DO NOT delete me (this line).
 Please change me somehow.
 =======
 
-	Please change me.
+			File was changed.
 
 
 Your favorite fruit: ...
