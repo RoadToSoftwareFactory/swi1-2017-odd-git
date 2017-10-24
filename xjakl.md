@@ -1,19 +1,17 @@
 Please DO NOT delete me (this line).
 
-Please change me somehow.
 
+Your favorite fruit: Kaktus
 
-Your favorite fruit: ...
+Your favorite city: Prypiat
 
-Your favorite city: ...
+Your favorite vegetable: Klobasa
 
-Your favorite vegetable: ...
+Your favorite color: Purpurova
 
-Your favorite color: ...
+Your favorite icecream: Kvetakova
 
-Your favorite icecream: ...
-
-Your favorite season: ...
+Your favorite season: Leto
 
 
 (after this, please follow the instructions in README.md)
