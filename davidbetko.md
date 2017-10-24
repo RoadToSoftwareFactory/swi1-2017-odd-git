@@ -15,4 +15,3 @@ Your favorite icecream: icecream
 
 Your favorite season: summer
 
-(after this, please follow the instructions in README.md)
