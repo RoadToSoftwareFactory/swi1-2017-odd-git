@@ -4,7 +4,7 @@ Please change me, please,pleae
 
 Your favorite fruit: banana
 
-Your favorite city: ...
+Your favorite city: Helsinky
 
 Your favorite vegetable: potato
 
