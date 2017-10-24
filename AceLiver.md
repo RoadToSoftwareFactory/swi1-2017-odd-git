@@ -1,7 +1,7 @@
 
 Please DO NOT delete me (this line).
 
-Please change me somehow.
+Please change me to something sweet....
 
 
 Your favorite fruit: ...
