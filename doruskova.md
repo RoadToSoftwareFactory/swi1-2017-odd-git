@@ -7,15 +7,15 @@ Changed line, haha
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: orange
 
 Your favorite city: Helsinki
 
-Your favorite vegetable: ...
+Your favorite vegetable: tomato
 
 Your favorite color: ...
 
-Your favorite icecream: ...
+Your favorite icecream: chocolate
 
 Your favorite season: ...
 
