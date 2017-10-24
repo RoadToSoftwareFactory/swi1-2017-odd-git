@@ -10,9 +10,9 @@ Your favorite vegetable: potato
 
 Your favorite color: ...
 
-Your favorite icecream: don’t like icecream
+Your favorite icecream: don’t like ice-cream
 
-Your favorite season: ...
+Your favorite season: NHL season
 
 
 (after this, please follow the instructions in README.md)
