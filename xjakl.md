@@ -1,5 +1,6 @@
 Please DO NOT delete me (this line).
 
+Delete this line
 
 Your favorite fruit: Kaktus
 
