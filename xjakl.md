@@ -1,16 +1,16 @@
-Please DO NOT delete me (this line).
 
+2e00ecd... Added favorite fruit
 Your favorite fruit: Banana
 
-Your favorite city: Prypiat
+Your favorite city: 
 
-Your favorite vegetable: Klobasa
+Your favorite vegetable: Cauliflower
 
-Your favorite color: Purpurova
+Your favorite color: 
 
-Your favorite icecream: Kvetakova
+Your favorite icecream: Vanilla
 
-Your favorite season: Leto
+Your favorite season:
 
 
 (after this, please follow the instructions in README.md)
