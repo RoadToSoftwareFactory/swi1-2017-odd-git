@@ -2,7 +2,7 @@
 2e00ecd... Added favorite fruit
 Your favorite fruit: Banana
 
-Your favorite city: 
+Your favorite city: Brno
 
 Your favorite vegetable: Cauliflower
 
