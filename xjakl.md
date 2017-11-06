@@ -1,8 +1,8 @@
 
-2e00ecd... Added favorite fruit
+
 Your favorite fruit: Banana
 
-Your favorite city: Brno
+Your favorite city: Helsinky
 
 Your favorite vegetable: Cauliflower
 
