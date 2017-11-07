@@ -13,7 +13,7 @@ Your favorite color: black
 
 Your favorite icecream: nothing
 
-Your favorite season: ...
+Your favorite season: winter
 
 
 (after this, please follow the instructions in README.md)
