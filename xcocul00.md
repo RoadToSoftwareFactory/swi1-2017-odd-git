@@ -11,7 +11,7 @@ Your favorite vegetable: potato
 
 Your favorite color: black
 
-Your favorite icecream: ...
+Your favorite icecream: nothing
 
 Your favorite season: ...
 
