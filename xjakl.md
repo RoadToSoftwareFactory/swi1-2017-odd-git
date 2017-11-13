@@ -5,7 +5,7 @@ Please change the world.
 
 Your favorite fruit: Banana
 
-Your favorite city: ...
+Your favorite city: Helsinki
 
 Your favorite vegetable: Cauliflower
 
